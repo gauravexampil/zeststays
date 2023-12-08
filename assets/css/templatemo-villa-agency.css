@@ -1163,6 +1163,7 @@ Properties Style
 }
 
 .properties .item img {
+  height: 215px;
   border-radius: 10px;
 }
 
